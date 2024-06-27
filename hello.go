@@ -1,4 +1,4 @@
-package mqoute
+package mquote
 
 import "fmt"
 
